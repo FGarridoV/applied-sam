@@ -1,4 +1,4 @@
-# applied-sam
+# applied-sam (Working project)
 An implementation of SAM from Luca Medeiros integration
 
 ### Installation
